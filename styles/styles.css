@@ -14,8 +14,8 @@ body{
 }
 .card_container{
     width: 100%;
-    border: 5px solid red;
     display:flex;
+    justify-content: center;
     flex-flow: row wrap;
     margin: 20px;
 }
